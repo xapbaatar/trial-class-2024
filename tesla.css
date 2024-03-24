@@ -44,6 +44,29 @@ top: 0px;
     padding-top: 200px;
 }
 
+.text-container2 {
+    padding-top: 200px;
+}
+.text-container2 h1 {
+    /* Model Y */
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: center;  
+    color: white; 
+ }   
+ 
+ .text-container2 h4 {
+     font-family: Avenir;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 20px;
+ text-align: center;
+ color: white;
+ 
+ }
+
 .text-container h1 {
    /* Model Y */
    font-family: Montserrat;
